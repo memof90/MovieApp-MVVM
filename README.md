@@ -4,12 +4,15 @@ This is a app with Swift, Programatically, RestApi, Generics, CoreData and Allow
 
 # NOTE
 
-Hello My name is Guillermo Andres Figueredo This is my chanllenge, I don't can use the pokemon AP I**because my faith in christ and my christian conditions doesn't allow me and Religion.** Today implement the solution with other Api **TMBD MOVIE API** I'm added new freatures to justified the change of API Nevertheless before I created 
-a pokemon api this is the repo and work with SWIFT UI this is repo Link but doesn't updated because my religion and I added How Consume the api two call api in this
-file and How call two api two times but I doesn't more than that 
+Hello My name is Guillermo Andres Figueredo This is my chanllenge, I don't can use the pokemon API **because my faith in christ and my christian conditions doesn't allow me and Religion.** Today implement the solution with other Api **TMBD MOVIE API** I'm added new freatures to justified the change of API Nevertheless before I created a pokemon api this is the repo and work with SWIFT UI this is repo Link but doesn't updated because my religion and I added How Consume the api two call api in this file and How call two api two times but I doesn't more than that 
 
 ## CALL API POKEMON 
 
+I consume the api in playground becasue I don't use this api with my Religion 
+
+<img src="https://github.com/memof90/PokemonApi/blob/master/images/Captura%20de%20Pantalla%202021-10-01%20a%20la(s)%203.34.10%20p.%C2%A0m..png?raw=true">
+
+<a href="https://github.com/memof90/PokemonApi" target="_blank">Link Repo</a>
 
 
 # PokemonApp
