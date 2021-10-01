@@ -17,7 +17,8 @@ file and How call two api two times but I doesn't more than that
 Esta es una Pokemon App que pasa y consume la informacion desde Pokemon Api 
 ## repo link
 
-<a src="https://github.com/memof90/PokemonApp"> Repo to Pokemon Api</a>
+<a href="https://github.com/memof90/PokemonApp">link text</a>
+
 
 <table>
   <tr>
