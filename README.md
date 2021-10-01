@@ -14,10 +14,12 @@ file and How call two api two times but I doesn't more than that
 
 
 # PokemonApp
+
 Esta es una Pokemon App que pasa y consume la informacion desde Pokemon Api 
+
 ## repo link
 
-<a href="https://github.com/memof90/PokemonApp">link text</a>
+<a href="https://github.com/memof90/PokemonApp" target="_blank">link Repo</a>
 
 
 <table>
