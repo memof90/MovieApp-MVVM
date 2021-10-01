@@ -4,8 +4,7 @@ This is a app with Swift, Programatically, RestApi, Generics, CoreData and Allow
 
 # NOTE
 
-Hello My name is Guillermo Andres Figueredo This is my chanllenge, I don't can use the pokemon API because my faith in christ and my christian conditions doesn't allow 
-me and Religion. Today implement the solution with other Api **TMBD MOVIE API** I'm added new freatures to justified the change of API Nevertheless before I created 
+Hello My name is Guillermo Andres Figueredo This is my chanllenge, I don't can use the pokemon AP I**because my faith in christ and my christian conditions doesn't allow me and Religion.** Today implement the solution with other Api **TMBD MOVIE API** I'm added new freatures to justified the change of API Nevertheless before I created 
 a pokemon api this is the repo and work with SWIFT UI this is repo Link but doesn't updated because my religion and I added How Consume the api two call api in this
 file and How call two api two times but I doesn't more than that 
 
